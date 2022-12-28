@@ -1,4 +1,4 @@
-# CS225 @ ZJUI 22SP by Ziyuan Chen
+# CS225 @ ZJUI 22SP by Ziyuan Chen, Zhirong Chen, Weijie Liang and Xuming Chen
 
 [Ziyuan Chen](mailto:ziyuan.20@intl.zju.edu.cn) | CS225: Data Structure, Spring 2022 <br>
 Instructor: [Klaus-Dieter Schewe](https://zjui.intl.zju.edu.cn/en/node/765) @ ZJU-UIUC Institute
